@@ -1,0 +1,25 @@
+{
+  "name": "CrazyCoin",
+  "version": "1.0.0",
+  "description": "A very basic blockchain built using javascript.",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavbairagi/CrazyCoin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhavbairagi/CrazyCoin/issues"
+  },
+  "homepage": "https://github.com/Vaibhavbairagi/CrazyCoin#readme"
+}
